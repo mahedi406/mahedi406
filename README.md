@@ -119,25 +119,7 @@ patients, doctors and hospital information.
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-
-<!-- Dark Mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mahedi406/mahedi406/output/github-contribution-grid-snake-dark.svg">
-
-  <!-- Light Mode -->
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mahedi406/mahedi406/output/github-contribution-grid-snake.svg">
-
-  <img
-    alt="github contribution snake animation"
-    src="https://raw.githubusercontent.com/mahedi406/mahedi406/output/github-contribution-grid-snake.svg">
-</picture>
-
-</p>
 
 ---
 
