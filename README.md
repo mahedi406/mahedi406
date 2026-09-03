@@ -228,10 +228,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=mahedi406&theme=toky
 
 </p>
 
----
-
-
----
 
 # 🤝 Connect With Me
 
@@ -240,21 +236,23 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=mahedi406&theme=toky
 <a href="https://linkedin.com/in/mahedi-hassan31">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://facebook.com/mahedi406">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/mahedi.hassan406">
   <img src="https://skillicons.dev/icons?i=instagram" width="40">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:mahedihassan4406@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="40">
 </a>
 
 </p>
-
 ---
 
 # 💼 Open to Opportunities
