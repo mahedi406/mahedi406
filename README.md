@@ -303,8 +303,4 @@ or internship opportunity, feel free to reach out!
 
 ---
 
-<div align="center">
 
-### 💙 Made with ❤️ by Mahedi Hassan
-
-</div>
