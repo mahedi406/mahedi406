@@ -230,16 +230,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=mahedi406&theme=toky
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=mahedi406&theme=tokyo-night&hide_border=true&area=true"
-width="100%"
-/>
-
-</p>
 
 ---
 
