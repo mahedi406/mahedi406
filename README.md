@@ -46,21 +46,35 @@ learning new technologies, and turning ideas into useful projects.
 
 I'm currently developing my skills across the complete web development stack.
 
-### Frontend
-`HTML` `CSS` `JavaScript` `React` `Tailwind CSS` `TypeScript`
+### 🎨 Frontend
 
-### Backend
-`Node.js` `Express.js`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,typescript" />
+</p>
 
-### Database
-`MongoDB` `MySQL` `PostgreSQL`
+### ⚙️ Backend
 
-### Programming
-`C` `C++` `JavaScript` `TypeScript`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Other
-`Git` `GitHub` `VS Code` `Postman` `Docker`
+### 🗄️ Database
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 💻 Programming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript" />
+</p>
+
+### 🛠️ Other Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 ---
 
 ## 🚀 Featured Projects
